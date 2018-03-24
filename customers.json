@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Anuwat",
+    "company":"haxtivitiez, inc",
+    "phone":"1337-37-99"
+  },
+  {
+    "id":2,
+    "name":"Chatchai",
+    "company":"loopback, inc",
+    "phone":"1337-37-90"
+  },
+  {
+    "id":3,
+    "name":"Pansa",
+    "company":"RFIDC, inc",
+    "phone":"1337-37-89"
+  }
+]
